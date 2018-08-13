@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "description": "developingt",
+  "main": "index.html",
+  "keywords": [
+    "next"
+  ],
+  "authors": [
+    "dave-learning"
+  ],
+  "license": "MIT",
+  "homepage": "dessinemoi",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
