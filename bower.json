@@ -1,15 +1,15 @@
 {
   "name": "sandbox",
-  "description": "developingt",
+  "description": "",
   "main": "index.html",
   "keywords": [
     "next"
   ],
   "authors": [
-    "dave-learning"
+    "Dave <dessinemoiuneyourte.com@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "dessinemoi",
+  "homepage": "https://dessinemoiuneyourte.com",
   "ignore": [
     "**/.*",
     "node_modules",
